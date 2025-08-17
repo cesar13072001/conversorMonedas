@@ -1,0 +1,24 @@
+Moneda base: PEN
+Moneda destino: USD
+Tipo de cambio: 0.2813
+Resultado: 281.3
+Fecha consulta: 16/08/2025 21:18:35
+--------------------------------------------------
+Moneda base: NPR
+Moneda destino: USD
+Tipo de cambio: 0.00714
+Resultado: 324.6201
+Fecha consulta: 16/08/2025 21:19:23
+--------------------------------------------------
+Moneda base: ZMW
+Moneda destino: AED
+Tipo de cambio: 0.1584
+Resultado: 15848.5536
+Fecha consulta: 16/08/2025 21:23:07
+--------------------------------------------------
+Moneda base: ANG
+Moneda destino: AZN
+Tipo de cambio: 0.9498
+Resultado: 433509.6156
+Fecha consulta: 16/08/2025 21:24:41
+--------------------------------------------------
