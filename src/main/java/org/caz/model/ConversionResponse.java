@@ -46,6 +46,7 @@ public class ConversionResponse {
         this.time_last_update_unix = time_last_update_unix;
     }
 
+
     public String getTime_last_update_utc() {
         return time_last_update_utc;
     }

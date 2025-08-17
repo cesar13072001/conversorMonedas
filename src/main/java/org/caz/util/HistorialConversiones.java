@@ -15,6 +15,7 @@ public class HistorialConversiones {
             }
         }
 
+
     public void mostrarHistorial() {
         File file = new File(ARCHIVO);
         if (!file.exists()) {

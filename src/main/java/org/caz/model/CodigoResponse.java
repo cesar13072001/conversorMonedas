@@ -10,7 +10,6 @@ public class CodigoResponse {
     public ArrayList<ArrayList<String>> supported_codes;
 
 
-
     public String getResult() {
         return result;
     }

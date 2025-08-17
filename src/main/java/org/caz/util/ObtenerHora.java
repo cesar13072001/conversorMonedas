@@ -10,5 +10,4 @@ public class ObtenerHora {
         DateTimeFormatter formato = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
         return ahora.format(formato);
     }
-
 }

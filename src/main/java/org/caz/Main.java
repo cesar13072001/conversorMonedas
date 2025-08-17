@@ -108,12 +108,6 @@ public class Main {
                 System.out.println("..................................................................");
                 ConversionResponse response = api.consultaConversion(codigoResponse.get(opcionBase - 1).get(0), codigoResponse.get(opcionDestino - 1).get(0), monto);
                 if (response != null && "success".equals(response.getResult())) {
-                    /*String registro = "Moneda base: " + response.getBase_code() +
-                            ", Moneda destino: " + response.getTarget_code() +
-                            ", Tipo de cambio: " + response.getConversion_rate() +
-                            ", Resultado: " + response.getConversion_result() +
-                            ", Fecha consulta: " + hora.ObtenerFechaHora();*/
-
                     String registro = "Moneda base: " + response.getBase_code() + "\n" +
                             "Moneda destino: " + response.getTarget_code() + "\n" +
                             "Tipo de cambio: " + response.getConversion_rate() + "\n" +

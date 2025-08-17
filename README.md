@@ -29,6 +29,7 @@ Utiliza la API [ExchangeRate](https://www.exchangerate-api.com/) para obtener lo
 
 ---
 
+
 ## 📂 Estructura del proyecto
 
 ```text
