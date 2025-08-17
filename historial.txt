@@ -22,3 +22,15 @@ Tipo de cambio: 0.9498
 Resultado: 433509.6156
 Fecha consulta: 16/08/2025 21:24:41
 --------------------------------------------------
+Moneda base: PEN
+Moneda destino: USD
+Tipo de cambio: 0.2813
+Resultado: 281.3
+Fecha consulta: 16/08/2025 21:32:24
+--------------------------------------------------
+Moneda base: USD
+Moneda destino: PEN
+Tipo de cambio: 3.5544
+Resultado: 3554.4
+Fecha consulta: 16/08/2025 21:34:59
+--------------------------------------------------
